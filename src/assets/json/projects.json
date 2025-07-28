@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "title": "Albedo ve İklim Dinamikleri",
+    "category": "Fizik",
+    "date": "2023-05-15",
+    "client": "Öğrenciler",
+    "description": "10 Mart tarihinde Gençlik ve Spor Bakanlığı ÜNİDES programı kapsamında yürütmüş olduğumuz “Yansımanın İzleri (Albedo ve İklim Dinamikleri)” projemizin birinci aşamasını başarıyla gerçekleştirmiş bulunmaktayız. Bu projede üniversitemizin çeşitli bölümlerinden katılan ekip arkadaşlarımız ile karın erime hızını ve albedo değişimlerinin enerji dengesi üzerindeki etkilerini anlamaya yönelik Uludağ’da saha ölçümleri yaparak çevresel veriler topladık. Toplanan veriler ile güneş ışınımı ve yansıma konuları da incelenerek bu dinamiklerin iklim değişikliği ve kar erime hızı etkisi üzerindeki etkilerine dair derinlemesine analizler yapılacaktır. Bu harika projede emeği geçen herkese teşekkür ederiz. Bir sonraki projelerde görüşmek üzere 🙏 ❄️",
+    "details": {
+      "challenges": "Ölçüm",
+      "solutions": "Ekip Çalışması",
+      "technologies": ["Piranometre","Arduino"]
+    },
+    "images": [
+      "/fizik-ve-otesi/images/albedo/albedo.jpg",
+      "/fizik-ve-otesi/images/albedo/albedo2.jpg",
+      "/fizik-ve-otesi/images/albedo/albedo3.jpg"
+
+    ],
+    "testimonial": {
+      "text": "Harika bir iş çıkardılar!",
+      "author": "Katılımcılar",
+      "position": "Öğrenciler"
+    },
+    "projectUrl": "bos",
+    "githubUrl":"bos"
+  },
+  {
+    "id": 2,
+    "title": "1 Fikir 1 Marmara",
+    "category": "Organizasyon",
+    "date": "2023-08-22",
+    "client": "TÜMMİAD",
+    "description": "Bursa Teknik Üniversitesi Fizik ve Ötesi Topluluğu olarak, Marmara Bölgesi’nin en yenilikçi girişimcilerini ve start-up’larını bir araya getiren “1 Fikir 1 Marmara” etkinliğinin organizasyonunda yer almanın gururunu yaşıyoruz.Bu ilham verici platformda, inovatif fikirlerin paylaşımına tanıklık ettik ve bölgenin potansiyelini yansıtan yaratıcı projelerle bir araya geldik. Girişimciler, standlarında projelerini sergilerken, jüri üyeleri yenilikçilik, sürdürülebilirlik ve uygulanabilirlik gibi kriterlerle en başarılı projeleri değerlendirdi.Etkinlik boyunca düzenlenen Saçmalathon, Startup Fighting, ve Pickleball Deneyimi gibi aktiviteler, sadece yarışmacılar arasında değil, tüm katılımcılar arasında enerji dolu bir atmosfer yarattı.Türkiye’nin girişimcilik geleceğine katkıda bulunmak ve Marmara Bölgesi’ndeki inovasyon ruhunu desteklemek adına burada olmak bizim için büyük bir mutluluktu. TÜMMİAD ekibine, topluluğumuza verdikleri bu ödül için teşekkür ederiz. Destekleriniz ve takdiriniz bizim için büyük bir motivasyon kaynağı oldu.Ayrıca bu organizasyonda emeği geçen herkese teşekkür eder, seçilen projelere “1 Fikir 1 Türkiye” yolunda başarılar dileriz!",
+    "details": {
+      "challenges": "Koordinasyon",
+      "solutions": "İletişimi arttırmak",
+      "technologies": []
+    },
+    "images": [
+      "/fizik-ve-otesi/images/1f1m/1f1m.jpg",
+      "/fizik-ve-otesi/images/1f1m/1f1m-2.jpg",
+      "/fizik-ve-otesi/images/1f1m/1f1m-3.jpg"
+    ],
+    "projectUrl": "",
+    "githubUrl":"bos2"
+  },
+  {
+    "id": 3,
+    "title": "Profesör Ahmet Erbil",
+    "category": "Söyleşi",
+    "date": "2023-08-22",
+    "client": "Fizik ve Ötesi",
+    "description": "Topluluğumuzun üyeleriyle, Sayın Profesör Ahmet Erbil ile dün geceki bilimsel sohbetimiz, farklı bakış açılarıyla zenginleşen, bilgi dolu bir tartışma ortamı sundu ve bilimin gelecekteki yönelimlerine ve birçok yeni fikir üzerine düşünmemizi sağladı. Kendisine çok teşekkür ederiz. 💫.",
+    "details": {
+      "challenges": "Mekan bulmak",
+      "solutions": "Daha çok aramak",
+      "technologies": []
+    },
+    "images": [
+      "/fizik-ve-otesi/images/ahmeterbil/ahmetErbil.jpg",
+      "/fizik-ve-otesi/images/ahmeterbil/ahneterbil-2.jpg",
+      "/fizik-ve-otesi/images/ahmeterbil/ahmeterbil-3.jpg"
+
+    ],
+    "projectUrl": "",
+    "githubUrl":"bos3"
+  },
+  {
+    "id": 4,
+    "title": "Hyundai Teknik Gezi",
+    "category": "Teknik Gezi",
+    "date": "2023-08-22",
+    "client": "Hyundai",
+    "description": "Bursa Teknik Üniversitesi Fizik ve Ötesi Topluluğu olarak Hyundai Motor Türkiye ‘nin İzmit fabrikasında gerçekleştirdiğimiz teknik geziyi başarıyla tamamladık. Üretim hattından montaj süreçlerine kadar birçok aşamayı yerinde gözlemleme fırsatı bulduk.Otomotiv endüstrisinin yüksek teknolojiyle nasıl buluştuğunu yakından görmek, bizler için son derece öğretici ve ilham verici oldu. Bu değerli deneyim için bizleri ağırlayan Hyundai Motor Türkiye ekibine ve Yılmaz Dağlı’ya teşekkür ederiz. Gelecekte daha fazla teknik gezi ile sizlerle buluşmak üzere hashtag#Hyundai",
+    "details": {
+      "challenges": "Araç bulmak",
+      "solutions": "OKULU DARLAMAK",
+      "technologies": []
+    },
+    "images": [
+      "/fizik-ve-otesi/images/hyundai/WRCHyundai.jpg",
+      "/fizik-ve-otesi/images/hyundai/hyundai-2.jpg"
+      
+    ],
+    "projectUrl": "https://play.google.com/store/apps/details?id=com.ornek.app",
+    "githubUrl":"bos4"
+  },
+  {
+    "id": 5,
+    "title": "Mehmet Burçin ÜNLÜ",
+    "category": "Söyleşi",
+    "date": "2023-08-22",
+    "client": "Fizik ve Ötesi",
+    "description": "Bursa Teknik Üniversitesi Fizik ve Ötesi Topluluğu olarak, bugün çok değerli hocamız Prof. Dr. Mehmet Burçin ÜNLÜ’nün sunumuyla gerçekleşen “Fizik ve Evren” konferansına katılım sağladık.Etkinliğin öncesinde ve sonrasında düzenlenen özel etkinliğimizde; Prof. Dr. Mehmet Burçin ÜNLÜ, Rektörümüz Prof. Dr. Naci Çağlar, Rektör Yardımcılarımız Prof. Dr. Beyhan Bayhan ve Prof. Dr. Baris Tonguc ile birlikte çok değerli Fizik Bölümü akademisyenlerimizle keyifli ve verimli bir söyleşi gerçekleştirdik.Bu söyleşi sayesinde, hocamızla birebir etkileşim kurarak kariyer hedeflerimizi netleştirme, ilham alma, fiziksel ve bilimsel bakış açımızı geliştirme fırsatı bulduk; aynı zamanda projelerimiz hakkında fikir alışverişinde bulunduk.Kıymetli zamanını bizlere ayırıp söyleşi teklifimizi kabul ettiği için Prof. Dr. Mehmet Burçin ÜNLÜ hocamıza içten teşekkür ediyor, ülkemizin önde gelen bilim insanlarından biriyle bir araya gelmenin gururunu yaşıyoruz. Bize bu fırsatı sağlayan başta rektörümüz olmak üzere tüm okul yönetimine minnetlerimizi sunuyoruz.Fizik ve Ötesi Topluluğu olarak, bu tür etkinliklerin bilimin yaygınlaşmasına, akademik motivasyonun artmasına ve topluluk ruhunun güçlenmesine büyük katkı sağladığına inanıyor; gelecekte de benzer etkinliklerle bilim severleri bir araya getirmeyi temenni ediyoruz.",
+    "details": {
+      "challenges": "Kolay oldu!",
+      "solutions": "Kolaydı Zaten!",
+      "technologies": []
+    },
+    "images": [
+      "/fizik-ve-otesi/images/mehmetunlu/burcinMehmetUnlu.jpg",
+      "/fizik-ve-otesi/images/mehmetunlu/mehmetunlu-2.jpg",
+      "/fizik-ve-otesi/images/mehmetunlu/mehmetunlu-3.jpg"
+      
+    ],
+    "projectUrl": "https://play.google.com/store/apps/details?id=com.ornek.app",
+    "githubUrl":"bos4"
+  }
+  ,
+  {
+    "id": 6,
+    "title": "Seçköy ",
+    "category": "Söyleşi",
+    "date": "2023-08-22",
+    "client": "Fizik ve Ötesi",
+    "description": "Topluluğumuz 9 Kasım 2024 tarihinde Seçköy’ de yapılan BAAK Topluluğu’ nun Osmangazi Belediyesi ile düzenlediği “Atatürk'ü Bilimle Anma ve Gökyüzü Gözlem Etkinliği “ne katıldı. BAAK Topluluğunun değerli üyelerinin bilgili ve faydalı sunumlarını dinledikten sonra ekibimiz teleskop ile Ay’a gözlem yaptı. Etkinlik boyunca keyifli anlar yaşarken, bilgi ve deneyimlerimizi paylaşma fırsatı bulduk. Etkinlikte konuşmacı olarak yer alan değerli Amatör Astronom Canan Bilgin’e, Sanat Eğitmeni Ayten Köse Topçu’ya, Yazar Vedat Atacan’a, Kimya Müh. Tolga Dıraz’a, Amatör Astronom Tuğba Dalgın’a ve etkinlikte yer alan herkese bu güzel ortamı bize sundukları ve misafirperverlikleri için tekrar teşekkür ederiz. Gelecekte birlikte daha birçok etkinlik düzenlemeyi sabırsızlıkla bekliyoruz! 🚀 ",
+    "details": {
+      "challenges": "Kolay oldu!",
+      "solutions": "Kolaydı Zaten!",
+      "technologies": []
+    },
+    "images": [
+      "/fizik-ve-otesi/images/seckoy/seckoy.jpg",
+      "/fizik-ve-otesi/images/seckoy/seckoy-2.jpg",
+      "/fizik-ve-otesi/images/seckoy/seckoy-3.jpg"
+      
+    ],
+    "projectUrl": "https://play.google.com/store/apps/details?id=com.ornek.app",
+    "githubUrl":"bos4"
+  }
+]
